@@ -6,4 +6,4 @@
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/hello-world-web-app.git
+   git clone https://github.com/Brunonahuel22/Ejercicio-2-React.git
